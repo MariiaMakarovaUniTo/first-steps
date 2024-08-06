@@ -1,2 +1,2 @@
 # first-stepsJust an example repo
-Why an I doing this right now?
+Why am I doing this right now?
